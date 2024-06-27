@@ -1,3 +1,6 @@
+![image](https://github.com/Cr0mb/Minecraft-Server-Status-Checker/assets/137664526/1b2af8d0-7eb7-4163-9bdd-8bfe0c718cdf)
+
+
 # Minecraft-Server-Status-Checker
 This Python script allows you to check the status of Minecraft servers (both Java Edition and Bedrock Edition) using the MCSrvStatus API. 
 
